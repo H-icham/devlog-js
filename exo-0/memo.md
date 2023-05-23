@@ -54,13 +54,18 @@
 
         /* Section 2: */
 
-        // afficher la ville dans laquele Joe vit.     
+        // afficher la ville dans laquele Joe vit. 
+        var city = 'London'; 
+        console.log('London');   
 
         // afficher si Joe est roux ou pas.
+        var isRed = true;
+        console.log('true'); 
 
         /* Section 3 */
 
-        // console.log(myVariable);
+         console.log(myVariable);
+         // la variable (myVariable) n'est pas déclaré, ducoup sa met une erreur
 
         </script>
 
